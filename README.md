@@ -1,1 +1,1 @@
-# story.text.files
+.txt files of my short stories
