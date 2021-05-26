@@ -1,1 +1,1 @@
-.txt file containing my take on HBWL. 
+Hosted the text file containing my take on HBWL. 
